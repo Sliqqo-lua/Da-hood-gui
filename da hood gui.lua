@@ -1,5 +1,7 @@
 -- By E
 
+--A note by Sliqqo: I dont know his Discord User but when i figure it out i will edit this and put it here otherwise full dredit to him
+
 -- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
